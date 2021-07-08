@@ -145,4 +145,4 @@ else:
 
 # Exiting the Terminal window in case the program has been triggered by Alfred
 # (Cf.: How do I close the Terminal in OSX from the command line? (https://superuser.com/questions/158375/how-do-i-close-the-terminal-in-osx-from-the-command-line/1385450))
-osascript.run('tell application "Terminal" to close first window')
+osascript.run('tell application "iTerm2" to close first window')
