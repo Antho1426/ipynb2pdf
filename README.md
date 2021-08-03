@@ -17,7 +17,9 @@ a readable ".pdf" document.
 (cf.: https://github.com/jupyter/nbconvert) and `wkhtmltopdf` (cf.:
 https://wkhtmltopdf.org) commands to convert a ".ipynb" file into a ".pdf" file.
 
-<img src="ipynb2pdf.gif" alt="ipynb2pdf-gif" style="width: 640px;"/>
+<p align="center">
+	<img src="ipynb2pdf.gif" alt="ipynb2pdf-gif" style="width: 640px;"/>
+</p>
 
 ## 2. Getting started
 
