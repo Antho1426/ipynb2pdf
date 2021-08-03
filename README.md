@@ -56,7 +56,7 @@ https://wkhtmltopdf.org) commands to convert a ".ipynb" file into a ".pdf" file.
 
  
 Remark: with a Bash Terminal window, `/usr/local/bin/python2.7` can simply be
-replaced by `python`
+replaced by `python`.
 
  
 ## 3. Version history
